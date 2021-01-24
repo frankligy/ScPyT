@@ -7,5 +7,6 @@ I will share practical guidance of how to perform scientific computing in python
 1. Understanding Numpy and ndarray (A revisiting)
     * Link: https://frankligy.medium.com/revisiting-numpy-and-ndarray-e1e5f9a69791
 2. Linear algebra in python
-3. Statistics in python
+    * Link: https://frankligy.medium.com/linear-algebra-in-python-b967061e342a
+3. Statistical modelling in python
 
