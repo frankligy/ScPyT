@@ -19,6 +19,6 @@ Scientific Computing scans a wide spectrum including basic numeric programming, 
 
 In this Section, I want to record some useful code snippets that may be of use for your project.
 
-1. [!Tuple Index in Numpy](https://github.com/frankligy/ScPyT/tricks/1_tuple_index.ipynb)
-2. [!Missing value in Python](https://github.com/frankligy/ScPyT/tricks/2_nan.ipynb)
-3. [!Pairwise distance when having missing value](https://github.com/frankligy/ScPyT/tricks/3_compute_dist_NA.ipynb)
+1. [Tuple Index in Numpy](https://github.com/frankligy/ScPyT/blob/main/tricks/1_tuple_index.ipynb)
+2. [Missing value in Python](https://github.com/frankligy/ScPyT/blob/main/tricks/2_nan.ipynb)
+3. [Pairwise distance when having missing value](https://github.com/frankligy/ScPyT/blob/main/tricks/3_compute_dist_NA.ipynb)
