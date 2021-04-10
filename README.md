@@ -26,3 +26,5 @@ In this Section, I want to record some useful code snippets that may be of use f
 3. [Pairwise distance when having missing value](https://github.com/frankligy/ScPyT/blob/main/tricks/3_compute_dist_NA.ipynb)
 4. [argsort, argwhere, argmin, argmax](https://github.com/frankligy/ScPyT/blob/main/tricks/4_arg_sort.ipynb)
 5. [random package and np.random()](https://github.com/frankligy/ScPyT/blob/main/tricks/5_random.ipynb)
+6. [sorted array, index array, rank array, inverse index array](https://github.com/frankligy/ScPyT/blob/main/tricks/6_sorting.ipynb)
+7 .[np where function](https://github.com/frankligy/ScPyT/blob/main/tricks/7_np_where.ipynb)
