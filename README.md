@@ -5,7 +5,7 @@ Scientific Computing in Python, a set of tutorials and useful examples. All come
 
 Scientific Computing scans a wide spectrum including basic numeric programming, linear algebra, all kinds of distributions, and realizing Maximum Likelihood Estimation (MLE), Expectation-Maximization (EM) algorithm, Monte-Carlo Markov Chain (MCMC) sampling. This tutorial aims to help you to master the basic skills to implement relevant algorithms in python. 
 
-In the second part, titled as [Practical tricks](#Practical tricks), I will share some useful code snippets which relates to some confusing point when using numpy, I got into these traps before, so I hope it can serve as a reminder to me and other readers.
+In the second part, titled as [Practical tricks](#Practical_tricks), I will share some useful code snippets which relates to some confusing point when using numpy, I got into these traps before, so I hope it can serve as a reminder to me and other readers.
 
 
 1. Understanding Numpy and ndarray (A revisiting)
