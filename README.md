@@ -1,9 +1,11 @@
 # ScPyT
-Scientific Computing in Python, a practical and ultimate tutorials
+Scientific Computing in Python, a set of tutorials and useful examples. All come from my own experience.
 
-# What is this repository? :
+# What is this repository?
 
 Scientific Computing scans a wide spectrum including basic numeric programming, linear algebra, all kinds of distributions, and realizing Maximum Likelihood Estimation (MLE), Expectation-Maximization (EM) algorithm, Monte-Carlo Markov Chain (MCMC) sampling. This tutorial aims to help you to master the basic skills to implement relevant algorithms in python. 
+
+In the second part, titled as [Practical tricks](#Practical tricks), I will share some useful code snippets which relates to some confusing point when using numpy, I got into these traps before, so I hope it can serve as a reminder to me and other readers.
 
 
 1. Understanding Numpy and ndarray (A revisiting)
@@ -15,11 +17,12 @@ Scientific Computing scans a wide spectrum including basic numeric programming, 
 4. A bootcamp of statitical distributions 
 5. Frequentist statistical model (MLE, optimization methods, EM, factor analysis, etc)
 6. Bayesian statistical model (MCMC, hierarchical modelling, bayesian Network)
+7. stay tuned...
 
 
 # Practical tricks
 
-In this Section, I want to record some useful code snippets that may be of use for your project.
+In this Section, I want to share some caveats that numpy user may benefit from:
 
 1. [Tuple Index in Numpy](https://github.com/frankligy/ScPyT/blob/main/tricks/1_tuple_index.ipynb)
 2. [Missing value in Python](https://github.com/frankligy/ScPyT/blob/main/tricks/2_nan.ipynb)
