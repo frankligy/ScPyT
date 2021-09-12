@@ -32,3 +32,4 @@ In this Section, I want to share some caveats that numpy user may benefit from:
 6. [sorted array, index array, rank array, inverse index array](https://github.com/frankligy/ScPyT/blob/main/tricks/6_sorting.ipynb)
 7. [np where function](https://github.com/frankligy/ScPyT/blob/main/tricks/7_np_where.ipynb)
 8. [Parallelization in python scientific computing](https://github.com/frankligy/ScPyT/blob/main/tricks/8_parallelization.ipynb)
+9. [LaTex notes](https://github.com/frankligy/ScPyT/blob/main/tricks/9_LaTex.md)
