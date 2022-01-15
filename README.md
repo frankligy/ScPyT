@@ -8,12 +8,9 @@ Scientific Computing scans a wide spectrum including basic numeric programming, 
 In the second part, titled as [Practical tricks](#Practical_tricks), I will share some useful code snippets which relate to some confusing points when using numpy, I got into these traps before, so I hope it can serve as a reminder to me and other readers.
 
 
-1. Understanding Numpy and ndarray
-    * Link: https://frankligy.medium.com/revisiting-numpy-and-ndarray-e1e5f9a69791
-2. Linear algebra in python
-    * Link: https://frankligy.medium.com/linear-algebra-in-python-b967061e342a
-3. Ordinal Differential Equation
-    * Link: https://frankligy.medium.com/ordinal-differential-equation-ode-in-python-8dc1de21323b
+1. [Understanding Numpy and ndarray](https://frankligy.medium.com/revisiting-numpy-and-ndarray-e1e5f9a69791)
+2. [Linear algebra in python](https://frankligy.medium.com/linear-algebra-in-python-b967061e342a)
+3. [Ordinal Differential Equation](https://frankligy.medium.com/ordinal-differential-equation-ode-in-python-8dc1de21323b)
 4. A bootcamp of statitical distributions 
 5. Frequentist statistical model (MLE, optimization methods, EM, factor analysis, etc)
 6. Bayesian statistical model (MCMC, hierarchical modelling, bayesian Network)

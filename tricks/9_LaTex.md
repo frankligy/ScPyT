@@ -34,5 +34,8 @@
 \left\| \right\|    # norm
 \sim    # ~
 \arg    # arg
+\mathbbm{1}  # indicator function   # make sure to usepackage{bbm}
+\cdot   # a dot that is vertically aligned in the center
+\backslash  # \
 ```
 
