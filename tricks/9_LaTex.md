@@ -27,7 +27,7 @@
 3. notes
 
 ```
-\underset{}{}   # underset
+\underset{}{}   # underset, the first bracket represent stuff under the second bracket
 \lfloor \rfloor   # floor/ceil
 \hat     # hat
 \Bar     # bar
@@ -38,4 +38,8 @@
 \cdot   # a dot that is vertically aligned in the center
 \backslash  # \
 ```
+
+4. [space] in math mode(https://www.overleaf.com/learn/latex/Spacing_in_math_mode)
+
+
 
