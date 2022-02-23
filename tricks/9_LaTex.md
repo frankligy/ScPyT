@@ -39,7 +39,7 @@
 \backslash  # \
 ```
 
-4. [space] in math mode(https://www.overleaf.com/learn/latex/Spacing_in_math_mode)
+4. [space](https://www.overleaf.com/learn/latex/Spacing_in_math_mode) in math mode
 
 
 
