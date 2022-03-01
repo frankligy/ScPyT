@@ -37,6 +37,8 @@
 \mathbbm{1}  # indicator function   # make sure to usepackage{bbm}
 \cdot   # a dot that is vertically aligned in the center
 \backslash  # \
+\propto    # proportional to
+\circ     # element wise multiplication
 ```
 
 4. [space](https://www.overleaf.com/learn/latex/Spacing_in_math_mode) in math mode
