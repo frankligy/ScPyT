@@ -11,10 +11,9 @@ In the second part, titled as [Practical tricks](#Practical_tricks), I will shar
 1. [Understanding Numpy and ndarray](https://frankligy.medium.com/revisiting-numpy-and-ndarray-e1e5f9a69791)
 2. [Linear algebra in python](https://frankligy.medium.com/linear-algebra-in-python-b967061e342a)
 3. [Ordinal Differential Equation](https://frankligy.medium.com/ordinal-differential-equation-ode-in-python-8dc1de21323b)
-4. A bootcamp of statitical distributions 
+4. [Bayesian Probabilistic model](https://medium.com/@frankligy/probabilistic-modeling-in-python-not-finished-yet-8af06aef92c7)
 5. Frequentist statistical model (MLE, optimization methods, EM, factor analysis, etc)
-6. Bayesian statistical model (MCMC, hierarchical modelling, bayesian Network)
-7. stay tuned...
+6. stay tuned...
 
 
 # Practical tricks

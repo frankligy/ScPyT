@@ -94,9 +94,3 @@ for runs in range(1,n_runs-1,1):
     mu_est[runs] = norm.rvs(loc=lambda_est[:,runs-1].mean(),scale=math.sqrt(tau_est[runs]/2))
 
 
-n_cells = 1000
-n_genes = 100000
-PSI = np.empty(shape=(n_cells,n_genes))
-for i in rows:
-    for j in columns:
-        PSI[i,j] = pm.negativeBinomial(mean=..,scale=...)
