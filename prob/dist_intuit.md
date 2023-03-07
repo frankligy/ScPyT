@@ -27,6 +27,10 @@ It is to measure any positive values, without clear overdispersion.
 
 Honestly the default, like to model the coefficent of the regression.
 
+# Student T distribution
+
+Normal distribution with heavier tails
+
 # Poisson
 
 Default for counts data, the intuition is during certain time interval, how many buses arriving.
